@@ -36,7 +36,7 @@ flutter pub get
 ### Run the app:
 flutter run
 
-###Project Structure:
+### Project Structure:
 lib/
 ├── child_one.dart
 ├── child_two.dart
@@ -46,5 +46,5 @@ lib/
 ### Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. 
 
-###Author
+### Author
 Musfiqur Rahman
