@@ -32,17 +32,23 @@ cd Hello-Flutter-App
 ```
 
 ### Install dependencies:
+```sh
 flutter pub get
+```
 
 ### Run the app:
+```sh
 flutter run
+```
 
 ### Project Structure:
+```sh
 lib/
 ├── child_one.dart
 ├── child_two.dart
 ├── child_three.dart
 └── mycontainer.dart
+```sh
 
 ### Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. 
