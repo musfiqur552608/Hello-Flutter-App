@@ -48,7 +48,7 @@ lib/
 ├── child_two.dart
 ├── child_three.dart
 └── mycontainer.dart
-```sh
+```
 
 ### Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. 
