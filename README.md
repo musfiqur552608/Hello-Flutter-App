@@ -29,6 +29,7 @@ To get started with this project, follow these steps:
 ```sh
 git clone https://github.com/musfiqur552608/Hello-Flutter-App.git
 cd Hello-Flutter-App
+```
 
 ### Install dependencies:
 flutter pub get
